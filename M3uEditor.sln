@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M3uEditor", "M3uEditor\M3uEditor.csproj", "{25660781-E2D4-4E2B-9303-4D6F4C6E0388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25660781-E2D4-4E2B-9303-4D6F4C6E0388}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25660781-E2D4-4E2B-9303-4D6F4C6E0388}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25660781-E2D4-4E2B-9303-4D6F4C6E0388}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25660781-E2D4-4E2B-9303-4D6F4C6E0388}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01AFE41D-7F09-4FC5-B03B-633835E0D2F4}
+	EndGlobalSection
+EndGlobal
