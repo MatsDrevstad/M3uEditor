@@ -5,7 +5,7 @@ Om den inte komplierar
 a) Kolla först .NET version som din dator har. I solution Explorer högerklicka på M3UEditior och välj proprerties. Under Application General.
 
 eller
-b) uppdatera M3uEditor.csproj och taggen <TargetFramework>netcoreapp2.1</TargetFramework>
+b) uppdatera M3uEditor.csproj och taggen TargetFramework/netcoreapp2.1
 
 Sökväg till 
 .m3u (original), 
